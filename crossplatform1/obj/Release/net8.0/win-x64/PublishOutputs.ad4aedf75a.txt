@@ -1,0 +1,5 @@
+C:\Users\masle\source\repos\crossplatform1\bin\Release\net8.0\win-x64\publish\crossplatform1.exe
+C:\Users\masle\source\repos\crossplatform1\bin\Release\net8.0\win-x64\publish\crossplatform1.dll
+C:\Users\masle\source\repos\crossplatform1\bin\Release\net8.0\win-x64\publish\crossplatform1.deps.json
+C:\Users\masle\source\repos\crossplatform1\bin\Release\net8.0\win-x64\publish\crossplatform1.runtimeconfig.json
+C:\Users\masle\source\repos\crossplatform1\bin\Release\net8.0\win-x64\publish\crossplatform1.pdb
